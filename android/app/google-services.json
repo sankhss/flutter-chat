@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188620955498",
+    "project_id": "mychat-flutter-project",
+    "storage_bucket": "mychat-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188620955498:android:29e97d8f748cd615f88f13",
+        "android_client_info": {
+          "package_name": "com.sank.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188620955498-l1rlj1p4tcf79olrtn4q32lj0l4mudkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6gecestD9eBLdjNyoDUzhDlsLEkDsTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188620955498-l1rlj1p4tcf79olrtn4q32lj0l4mudkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
